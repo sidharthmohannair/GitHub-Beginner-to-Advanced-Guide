@@ -135,3 +135,8 @@
 ## Conclusion
 
 This guide covers some common Git errors and their solutions. For more detailed information, refer to the official Git documentation.
+
+## Resources
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Learning Lab](https://lab.github.com/)
+
