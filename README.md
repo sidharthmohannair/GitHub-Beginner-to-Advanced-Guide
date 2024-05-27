@@ -46,6 +46,11 @@ The Git Error Handling Guide provides solutions and explanations for common Git 
     - [Error: Your branch is ahead of 'origin/main' by X commits](error-handling/git_error_handling_guide.md#error-your-branch-is-ahead-of-originmain-by-x-commits)
 2. [Conclusion](error-handling/git_error_handling_guide.md#conclusion)
 
+## Software Licenses Guide
+
+Navigate to the [Software Licenses Guide](Software-Licenses-Guide/Software_Licenses_Guide.md) for detailed information on different types of software licenses and their usage.
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
