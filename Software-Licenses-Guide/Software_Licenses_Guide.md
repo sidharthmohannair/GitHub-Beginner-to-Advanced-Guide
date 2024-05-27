@@ -1,4 +1,3 @@
-
 # Software Licenses Guide
 
 ## Understanding Software Licenses
