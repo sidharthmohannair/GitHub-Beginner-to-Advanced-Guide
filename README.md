@@ -27,3 +27,8 @@ The Advanced Guide covers more complex Git topics for users who are already fami
 2. [Cherry-Picking](advanced/README.md#cherry-picking)
 3. [Stashing](advanced/README.md#stashing)
 4. [Resources](advanced/README.md#resources)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
