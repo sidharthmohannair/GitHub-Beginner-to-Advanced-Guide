@@ -2,6 +2,8 @@
 
 Welcome to the Git Guide that takes you from a beginner to an advanced user! This repository is organized into two main sections:
 
+![Beginner Guide to Git](images/gitGude.jpg)
+
 1. [Beginner Guide](#beginner-guide)
 2. [Advanced Guide](#advanced-guide)
 

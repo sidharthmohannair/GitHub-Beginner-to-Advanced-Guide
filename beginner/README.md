@@ -2,8 +2,6 @@
 
 Welcome to the Beginner Guide to Git! This section is designed to help new users understand and use Git with practical examples.
 
-![Beginner Guide to Git](images/gitGude.jpg)
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Basic Commands](#basic-commands)
