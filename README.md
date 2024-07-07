@@ -1,13 +1,16 @@
+
 # Git Guide: Beginner to Advanced
 
-Welcome to the Git Guide that takes you from a beginner to an advanced user! This repository is organized into two main sections:
+Welcome to the Git Guide that takes you from a beginner to an advanced user! This repository is organized into four main sections:
 
-![Beginner Guide to Git](images/gitGude.jpg)
+![Beginner Guide to Git](images/gitGuide.jpg)
 
-1. [Beginner Guide](#beginner-guide)
-2. [Advanced Guide](#advanced-guide)
+1. [Beginner Guide](#1-beginner-guide)
+2. [Advanced Guide](#2-advanced-guide)
+3. [Git Error Handling Guide](#3-git-error-handling-guide)
+4. [Software Licenses Guide](#4-software-licenses-guide)
 
-## Beginner Guide
+## 1. Beginner Guide
 
 The Beginner Guide is designed to help new users understand and use Git with practical examples.
 
@@ -18,7 +21,7 @@ The Beginner Guide is designed to help new users understand and use Git with pra
 4. [Merging](beginner/README.md#merging)
 5. [Resources](beginner/README.md#resources)
 
-## Advanced Guide
+## 2. Advanced Guide
 
 The Advanced Guide covers more complex Git topics for users who are already familiar with the basics.
 
@@ -28,7 +31,7 @@ The Advanced Guide covers more complex Git topics for users who are already fami
 3. [Stashing](advanced/README.md#stashing)
 4. [Resources](advanced/README.md#resources)
 
-## Git Error Handling Guide
+## 3. Git Error Handling Guide
 
 The Git Error Handling Guide provides solutions and explanations for common Git errors and issues.
 
@@ -46,12 +49,10 @@ The Git Error Handling Guide provides solutions and explanations for common Git 
     - [Error: Your branch is ahead of 'origin/main' by X commits](error-handling/git_error_handling_guide.md#error-your-branch-is-ahead-of-originmain-by-x-commits)
 2. [Conclusion](error-handling/git_error_handling_guide.md#conclusion)
 
-## Software Licenses Guide
+## 4. Software Licenses Guide
 
 Navigate to the [Software Licenses Guide](Software-Licenses-Guide/Software_Licenses_Guide.md) for detailed information on different types of software licenses and their usage.
 
-
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
+[MIT](/LICENSE)
