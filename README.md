@@ -49,6 +49,14 @@ The Git Error Handling Guide provides solutions and explanations for common Git 
     - [Error: Your branch is ahead of 'origin/main' by X commits](error-handling/git_error_handling_guide.md#error-your-branch-is-ahead-of-originmain-by-x-commits)
 2. [Conclusion](error-handling/git_error_handling_guide.md#conclusion)
 
+## 4. GitHub use case
+
+The common GitHuse use cases.
+
+## Table of Contents
+1. [Raising and Resolving Issues](/Git-usecase/git-use-case.md#1-raising-and-resolving-issues)
+2. [Forking a Repository](/Git-usecase/git-use-case.md#2-forking-a-repository)
+
 ## 4. Software Licenses Guide
 
 Navigate to the [Software Licenses Guide](Software-Licenses-Guide/Software_Licenses_Guide.md) for detailed information on different types of software licenses and their usage.
