@@ -56,6 +56,7 @@ The common GitHuse use cases.
 ## Table of Contents
 1. [Raising and Resolving Issues](/Git-usecase/git-use-case.md#1-raising-and-resolving-issues)
 2. [Forking a Repository](/Git-usecase/git-use-case.md#2-forking-a-repository)
+3. [Creating a Pull Request](/Git-usecase/git-use-case.md#3-creating-a-pull-request)
 
 ## 4. Software Licenses Guide
 
