@@ -26,3 +26,12 @@
      ```sh
      git clone https://github.com/your-username/repository-name.git
      ```
+
+## 3. Creating a Pull Request
+**Example:**
+1. **Creating a Pull Request:**
+   - Navigate to your forked repository on GitHub.
+   - Click on "New pull request."
+   - Compare the changes between your fork and the original repository.
+   - Add a title and description for your pull request.
+   - Click "Create pull request."
