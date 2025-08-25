@@ -1,6 +1,16 @@
 
 # Git Guide: Beginner to Advanced
 
+## 📚 Available Guide Versions
+
+### 🆕 [New Modular Guide (v2.0)](../../tree/v2-modular-guide)
+**Comprehensive structured learning path** with 6 progressive modules, real-world use cases, and step-by-step workflows. Perfect for systematic learning from beginner to advanced.
+
+### 📖 [Original Guide (v1.0)](../../tree/main) - You're currently viewing this
+**Quick reference format** with focused sections on specific topics. Great for quick lookups and targeted learning.
+
+---
+
 Welcome to the Git Guide that takes you from a beginner to an advanced user! This repository is organized into four main sections:
 
 ![Beginner Guide to Git](images/gitGuide.jpg)
